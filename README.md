@@ -5,10 +5,14 @@ Knowing which customers are the most valuable buyers is important because it hel
 
 Insight 1
 
+![](image/insight_1.png)
+
 When a customer registers, they receive a sales call. The length of time a customer receives a call affects the conversion rate. The bar graph shows customers who receive a call within a day of registering, their conversion rate is the highest at 2.6%. For customers who received a call between 1-3 days, their conversion rate drops by ~70% to 0.75%. Lastly, customers who receive a call between 3-5 days see a further decrease in conversion rate to 0.12%. 
 Therefore Sales & Marketing teams should focus on calling customers within 24 hours of registering as this is likely to result in more potential customers converting into paying users.
 
 Insight 2
+
+![](image/insight_2.png)
  
 “Conversion Rate for Marketing channels” graph displays how the different marketing channels against their conversion rate. The formula used here was;
 Conversion rate = (Conversions by marketing channel/ Total number of registrations due to marketing channel) *100  
@@ -17,15 +21,24 @@ As for FB- Prospecting, the Facebook ads are not as effective at converting pote
 
 Insight 3 
 
+![](image/insight_3.png)
+
 “Device type of Conversion” shows which devices converted customers used. Mobiles is the highest device used with 51% and tablets being the lowest with 4%. Recommendation would be for to focus their marketing on mobile devices. 
 Utilising social media platforms (Facebook, Instagram, Twitter, YouTube) and making sure the mobile version of the website is quick and easy to use will increase brand awareness and attract more customers. Using various search engine optimisation techniques will increase the visibility of the website and reach more potential customers.
 
 Insight 4
+
+![](image/insight_4.png)
+
  
 This graph shows the highest number of converted customers are coming from London (67%) whilst the lowest is tier 2 (4%). It may be best to focus marketing resources to potential customers in and around London as they make up the majority of converted customers.
 
 Insight 5 
- 
+
+![](image/insight_51.png)
+
+![](image/insight_52.png)
+
 “Estimates Property Values of Conversion Rate” graph shows the majority of property value for converted customers is 400-599k and the least is 0-200k
 “Total Time Length vs Estimated Property Value”, shows the average total time from a customer registering to making a first payment plotted against property value. Customers with a property valued between 800-99 have the shortest time length (24 days) 
 Analysing both graphs suggest the marketing team should focus on customers with a property value medium-high value (400-999k). With 800-99k properties having the shortest lead times, more marketing and sales resources should be targeted at customers with medium-high value properties as they are more likely to lead to quick turnaround and generate more revenue in shorter periods.  

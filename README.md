@@ -3,6 +3,8 @@
 Marketing data can describe a lot about customers. Conducting analysis into this data can give valuable insights about customer behaviour and better understand the people buying a company’s product.
 Knowing which customers are the most valuable buyers is important because it helps the company further focus their efforts.
 
+Insight analysis was conducted to help the company know which customers are the most valuable buyers and help the company further focus their marketing efforts.
+
 Insight 1
 
 ![](image/insight_1.png)
